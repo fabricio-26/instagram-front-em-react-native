@@ -30,9 +30,9 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         paddingLeft: 15,
         paddingRight: 15,
-        borderBottomWidth: 0.2,
+        borderBottomWidth: 0.1,
         shadowColor: '#000',
-        elevation: 2
+        elevation: 3
     },
     send:{
         width: 23,

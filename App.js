@@ -37,8 +37,8 @@ export default function App(){
       id:'4',
       nome: 'Fernado Gomes',
       descricao: 'Eu sou programdor',
-      imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil4.png',
-      imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto4.png',
+      imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png',
+      imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',
       likeada: false,
       likers: 39
     },
@@ -46,8 +46,8 @@ export default function App(){
       id:'5',
       nome: 'Algusto Silva',
       descricao: 'Java e uma linguagem orientada',
-      imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil5.png',
-      imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto5.png',
+      imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png',
+      imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto2.png',
       likeada: false,
       likers: 153
     },
